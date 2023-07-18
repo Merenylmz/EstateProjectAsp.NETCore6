@@ -1,0 +1,15 @@
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\bin\Debug\net6.0\EmlakSiteAPI.Application.deps.json
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\bin\Debug\net6.0\EmlakSiteAPI.Application.dll
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\bin\Debug\net6.0\EmlakSiteAPI.Application.pdb
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\bin\Debug\net6.0\EmlakSiteAPI.Domain.dll
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\bin\Debug\net6.0\EmlakSiteAPI.Domain.pdb
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\EmlakSiteAPI.Application.csproj.AssemblyReference.cache
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\EmlakSiteAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\EmlakSiteAPI.Application.AssemblyInfoInputs.cache
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\EmlakSiteAPI.Application.AssemblyInfo.cs
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\EmlakSiteAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\EmlakSiteAPI.Application.csproj.CopyComplete
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\EmlakSiteAPI.Application.dll
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\refint\EmlakSiteAPI.Application.dll
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\EmlakSiteAPI.Application.pdb
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Application\obj\Debug\net6.0\ref\EmlakSiteAPI.Application.dll

@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakSiteAPI", "EmlakSiteAPI\EmlakSiteAPI.csproj", "{BEA2A122-CD4A-46CF-8BE1-70A0656EA86E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{9BA30800-EDF3-4A20-B103-4AEFB89063F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakSiteAPI.Domain", "EmlakSiteAPI.Domain\EmlakSiteAPI.Domain.csproj", "{8C909C31-B93B-40C2-902C-A5530BCF0A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakSiteAPI.Application", "EmlakSiteAPI.Application\EmlakSiteAPI.Application.csproj", "{25D8742A-942A-4195-8D37-3C6870F06200}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastucture", "Infrastucture", "{14ABDE26-8C0A-49B8-9CAE-3BB5F7760281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakSiteAPI.Infrastucture", "EmlakSiteAPI.Infrastucture\EmlakSiteAPI.Infrastucture.csproj", "{056B030B-C6BC-41AF-8B3D-51E5DFAF1E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakSiteAPI.Persistance", "EmlakSiteAPI.Persistance\EmlakSiteAPI.Persistance.csproj", "{B4E1B181-B8FD-4C43-A24B-9F5F2993D583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA2A122-CD4A-46CF-8BE1-70A0656EA86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA2A122-CD4A-46CF-8BE1-70A0656EA86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA2A122-CD4A-46CF-8BE1-70A0656EA86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA2A122-CD4A-46CF-8BE1-70A0656EA86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C909C31-B93B-40C2-902C-A5530BCF0A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C909C31-B93B-40C2-902C-A5530BCF0A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C909C31-B93B-40C2-902C-A5530BCF0A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C909C31-B93B-40C2-902C-A5530BCF0A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D8742A-942A-4195-8D37-3C6870F06200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D8742A-942A-4195-8D37-3C6870F06200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D8742A-942A-4195-8D37-3C6870F06200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D8742A-942A-4195-8D37-3C6870F06200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056B030B-C6BC-41AF-8B3D-51E5DFAF1E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056B030B-C6BC-41AF-8B3D-51E5DFAF1E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056B030B-C6BC-41AF-8B3D-51E5DFAF1E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056B030B-C6BC-41AF-8B3D-51E5DFAF1E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E1B181-B8FD-4C43-A24B-9F5F2993D583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E1B181-B8FD-4C43-A24B-9F5F2993D583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E1B181-B8FD-4C43-A24B-9F5F2993D583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E1B181-B8FD-4C43-A24B-9F5F2993D583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8C909C31-B93B-40C2-902C-A5530BCF0A01} = {9BA30800-EDF3-4A20-B103-4AEFB89063F6}
+		{25D8742A-942A-4195-8D37-3C6870F06200} = {9BA30800-EDF3-4A20-B103-4AEFB89063F6}
+		{056B030B-C6BC-41AF-8B3D-51E5DFAF1E7E} = {14ABDE26-8C0A-49B8-9CAE-3BB5F7760281}
+		{B4E1B181-B8FD-4C43-A24B-9F5F2993D583} = {14ABDE26-8C0A-49B8-9CAE-3BB5F7760281}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1513F3-08AA-42ED-96C1-E545EC53D338}
+	EndGlobalSection
+EndGlobal

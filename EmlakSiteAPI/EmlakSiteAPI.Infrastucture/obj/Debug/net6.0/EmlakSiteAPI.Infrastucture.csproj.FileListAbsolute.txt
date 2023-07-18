@@ -1,0 +1,17 @@
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\bin\Debug\net6.0\EmlakSiteAPI.Infrastucture.deps.json
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\bin\Debug\net6.0\EmlakSiteAPI.Infrastucture.dll
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\bin\Debug\net6.0\EmlakSiteAPI.Infrastucture.pdb
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\bin\Debug\net6.0\EmlakSiteAPI.Application.dll
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\bin\Debug\net6.0\EmlakSiteAPI.Domain.dll
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\bin\Debug\net6.0\EmlakSiteAPI.Application.pdb
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\bin\Debug\net6.0\EmlakSiteAPI.Domain.pdb
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\EmlakSiteAPI.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\EmlakSiteAPI.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\EmlakSiteAPI.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\EmlakSiteAPI.Infrastucture.AssemblyInfo.cs
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\EmlakSiteAPI.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\EmlakSiteAPI.Infrastucture.csproj.CopyComplete
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\EmlakSiteAPI.Infrastucture.dll
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\refint\EmlakSiteAPI.Infrastucture.dll
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\EmlakSiteAPI.Infrastucture.pdb
+C:\Users\btstajyer\Desktop\Projeler\c#\EmlakSiteAPI\EmlakSiteAPI.Infrastucture\obj\Debug\net6.0\ref\EmlakSiteAPI.Infrastucture.dll
